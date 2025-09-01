@@ -88,8 +88,8 @@ const config = {
         // If a URL is left empty, the icon will not be displayed.
         { platform: "instagram", url: "https://instagram.com/babysfirstpistol" },
         { platform: "facebook", url: "https://facebook.com/babysfirstpistol" },
-        { platform: "twitter", url: "https://x.com/babysfirstpistol" },
-        { platform: "youtube", url: "https://youtube.com/babysfirstpistol" },
+        { platform: "twitter", url: "https://x.com/babys1stpistol" },
+        { platform: "youtube", url: "https://youtube.com/@babysfirstpistol" },
         { platform: "bandcamp", url: "https://babysfirstpistol.bandcamp.com/" },
         { platform: "tiktok", url: "https://www.tiktok.com/@babysfirstpistol" },
         { platform: "soundcloud", url: "https://soundcloud.com/babysfirstpistol" },
