@@ -1,4 +1,4 @@
-# Your Band Website - Management Guide
+# Band Website - Management Guide
 
 This website is designed to be very easy to update. You only need to edit **one file** to change almost everything on the site: `js/config.js`.
 

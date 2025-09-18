@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
         container.innerHTML = content;
     };
     
-    // --- Initialize all content population functions ---
+    // --- Initialize all content population functions per section ---
     populateHeader();
     populateAbout();
     populateMusic();
