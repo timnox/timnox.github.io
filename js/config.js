@@ -73,9 +73,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
     // BOOKING PAGE
     // ------------------------------------------------------------------
     booking: {
-        name: "Michael Kuhnert",
-        email: "michael@soundproofagency.com",
-        phone: "" // Optional
+        email: "booking@babysfirstpistol.com",
     },
 
     // ------------------------------------------------------------------
@@ -95,6 +93,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
     ]
 
 };
+
 
 
 
