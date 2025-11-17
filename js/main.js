@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const populateBooking = () => {
-        let content = `<p><strong>For all inquiries:</strong></p>`;
+        let content = `<p><strong>For all inquiries</strong></p>`;
         content += `<p><strong>Email:</strong> <a href="mailto:${config.booking.email}">${config.booking.email}</a></p>`;
         if (config.booking.phone) {
             content += `<p><strong>Phone:</strong> ${config.booking.phone}</p>`;
@@ -124,3 +124,4 @@ document.addEventListener('DOMContentLoaded', () => {
     populateBooking();
     populateFooterSocials();
 });
+
