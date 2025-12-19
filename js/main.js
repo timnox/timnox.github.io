@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const populateHeader = () => {
         document.title = config.bandName;
-        document.querySelector('#main-header').innerHTML = `<img src="${config.logoImage}" alt="${config.bandName} Logo">`;
+        //document.querySelector('#main-header').innerHTML = `<img src="${config.logoImage}" alt="${config.bandName} Logo">`;
         document.querySelector('#main-footer p').innerHTML = `&copy; ${new Date().getFullYear()} ${config.bandName}`;
     };
     
@@ -83,6 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="concert-date"><strong>DATE:</strong> ${formattedDate}</span>
                         <span class="concert-location"><strong>LOCATION:</strong> ${show.location}</span>
                         <span class="concert-venue"><strong>VENUE:</strong> ${show.venue} @ ${show.time}</span>
+                        <span class="cost"><strong>COST:</strong> ${show.cost}</span>
                     </div>
                     ${show.ticketLink ? `<div class="ticket-link"><a href="${show.ticketLink}" target="_blank" rel="noopener noreferrer">TICKETS</a></div>` : ''}
                 </div>

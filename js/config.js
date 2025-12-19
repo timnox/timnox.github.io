@@ -10,7 +10,7 @@ const config = {
     // GENERAL SITE SETTINGS
     // ------------------------------------------------------------------
     bandName: "Baby's First Pistol", // Your band/artist name
-    logoImage: "images/bipHead.gif", // A path to a logo image in the 'images' folder.
+    //logoImage: "images/bipHead.gif", // A path to a logo image in the 'images' folder.
     
     // ------------------------------------------------------------------
     // ABOUT PAGE
@@ -65,7 +65,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2025-12-19", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00 PM", ticketLink: "" },
+            { date: "2025-12-19", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$10", ticketLink: "https://www.eventbrite.ca/e/the-mendozaz-kingfisher-babys-first-pistol-and-papa-reuben-tickets-1967531705295" },
         ]
     },
 
