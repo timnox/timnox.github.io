@@ -16,7 +16,7 @@ const config = {
     // ABOUT PAGE
     // ------------------------------------------------------------------
     about: {
-        image: "images/band-photo.jpg", // Path to a band photo in the 'images' folder.
+        image: "images/band-photo.png", // Path to a band photo in the 'images' folder.
         text: `Baby's First Pistol emerged from Toronto's underground indie/punk/alternative scene, uniting a shared passion for creating an unfiltered, explosive sonic experience. Their music, described as "Fathercore" blends relentless energy with wild live performances, delving into themes of absurdity, nihilism, and societal commentary. “Edgy...angry undertones that threaten to boil over at any minute…a twitchy, tetchy, PIL, Johnny Rotten's post-Pistols post-punk pioneers, embracing hardcore.”  - Operation X-Ray. 
 
 Baby's First Pistol is open to collaborating with a wide range of artists on their projects, including professional wrestlers and independent filmmakers. We believe in supporting creative work across different mediums and welcome inquiries from anyone interested in incorporating our music into their projects. To discuss potential collaborations, please contact us at collabs@babysfirstpistol.com - very open to discussing utilization on an attribution-basis after discussing your intended use (free music!)`},
@@ -38,7 +38,9 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         otherLinks: [
             { platform: "Bandcamp", url: "https://babysfirstpistol.bandcamp.com/" },
             { platform: "SoundCloud", url: "https://soundcloud.com/babysfirstpistol" },
-            { platform: "Apple Music", url: "https://music.apple.com/ca/artist/babys-first-pistol/1685216511" }
+            { platform: "Apple Music", url: "https://music.apple.com/ca/artist/babys-first-pistol/1685216511" },
+            { platform: "Tidal", url: "https://tidal.com/artist/39101321/u"},
+            { platform: "Qobuz", url: "https://open.qobuz.com/artist/18265777"}
         ]
     },
 
@@ -53,7 +55,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
             "tiCBm-2WO2A",
             "p2-H1pXeEn0",
             "o_VqGEd7uJ8",
-            "tG5we4rhMqM"
+            "2rAvFDRj3yU"
         ]
     },
 
@@ -93,9 +95,3 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
     ]
 
 };
-
-
-
-
-
-
