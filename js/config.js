@@ -52,10 +52,10 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The ID is the part of the URL after "v=". Example: for https://www.youtube.com/watch?v=dQw4w9WgXcQ, the ID is "dQw4w9WgXcQ".
         // If you leave this empty, the section will show a "no videos" message.
         youtubeIds: [
-            "tiCBm-2WO2A",
-            "p2-H1pXeEn0",
-            "o_VqGEd7uJ8",
-            "2rAvFDRj3yU"
+            "1yTtrbsnnrI",
+            //"tiCBm-2WO2A",
+            //"p2-H1pXeEn0",
+            //"2rAvFDRj3yU"
         ]
     },
 

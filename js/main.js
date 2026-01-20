@@ -115,6 +115,37 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         container.innerHTML = content;
     };
+
+        // Handle mailing list form submission
+    const form = document.querySelector('#mailing-list form');
+    
+    if (form) {
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = new FormData(form);
+            
+            try {
+                const response = await fetch(form.action, {
+                    method: 'POST',
+                    body: formData,
+                    headers: {
+                        'Accept': 'application/json'
+                    }
+                });
+                
+                if (response.ok) {
+                    // Show success message
+                    form.innerHTML = '<p style="color: #fff; font-size: 24px;">✓ Thanks for joining!</p>';
+                } else {
+                    throw new Error('Form submission failed');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                form.innerHTML = '<p style="color: #f00; font-size: 18px;">✗ Error submitting form. Please try again.</p>';
+            }
+        });
+    }
     
     // --- Initialize all content population functions per section ---
     populateHeader();
