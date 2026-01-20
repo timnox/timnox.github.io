@@ -124,7 +124,6 @@ document.addEventListener('DOMContentLoaded', () => {
     populateConcerts();
     populateBooking();
     populateFooterSocials();
-});
 
     // Handle mailing list form submission
     const form = document.querySelector('#mailing-list form');
@@ -156,3 +155,4 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+});
