@@ -115,8 +115,18 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         container.innerHTML = content;
     };
+    
+    // --- Initialize all content population functions per section ---
+    populateHeader();
+    populateAbout();
+    populateMusic();
+    populateVideos();
+    populateConcerts();
+    populateBooking();
+    populateFooterSocials();
+});
 
-        // Handle mailing list form submission
+    // Handle mailing list form submission
     const form = document.querySelector('#mailing-list form');
     
     if (form) {
@@ -146,14 +156,3 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-    
-    // --- Initialize all content population functions per section ---
-    populateHeader();
-    populateAbout();
-    populateMusic();
-    populateVideos();
-    populateConcerts();
-    populateBooking();
-    populateFooterSocials();
-});
-
