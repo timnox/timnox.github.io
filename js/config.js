@@ -67,7 +67,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2026-01-23", location: "Toronto, ON", venue: "The Baby G", time: "7:00PM", cost: "$20", ticketLink: "https://dice.fm/partner/tickets/event/avewvx-quotedto-presents-alternative-night-23rd-jan-the-baby-g-toronto-tickets?dice_id=7872036&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1534263883921011300&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q9ITLFMSjU1SUtLMbSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQB6rbLLOwAAAA%3D%3D" },
+            { date: "2026-02-20", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$10", ticketLink: "" },
         ]
     },
 
