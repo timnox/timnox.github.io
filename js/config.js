@@ -67,7 +67,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2026-02-20", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$10", ticketLink: "" },
+            { date: "2026-03-06", location: "Toronto, ON", venue: "Handlebar", time: "8:00PM", cost: "PWYC", ticketLink: "" },
         ]
     },
 
@@ -96,3 +96,4 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
 
 
 };
+
