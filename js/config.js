@@ -52,7 +52,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The ID is the part of the URL after "v=". Example: for https://www.youtube.com/watch?v=dQw4w9WgXcQ, the ID is "dQw4w9WgXcQ".
         // If you leave this empty, the section will show a "no videos" message.
         youtubeIds: [
-            "1yTtrbsnnrI",
+            "9ipBQUlRFQ8",
             //"tiCBm-2WO2A",
             //"p2-H1pXeEn0",
             //"2rAvFDRj3yU"
@@ -93,5 +93,6 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         { platform: "tiktok", url: "https://www.tiktok.com/@babysfirstpistol" },
         { platform: "soundcloud", url: "https://soundcloud.com/babysfirstpistol" },
     ]
+
 
 };
