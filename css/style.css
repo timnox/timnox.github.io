@@ -165,6 +165,11 @@ h2 {
     font-size: 22px;
 }
 
+/*Booking Section */
+#booking-content a {
+    color: var(--foreground-color);
+}
+
 /* Mailing List Section */
 #mailing-list {
     padding: 40px 10px;
