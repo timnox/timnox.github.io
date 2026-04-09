@@ -67,7 +67,6 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2026-04-04", location: "York, ON", venue: "Granite Brewery & Tied House ", time: "7:30PM", cost: "$15 adv., $20 door", ticketLink: "https://www.eventbrite.ca/e/annual-spring-rock-show-the-granite-brewery-tickets-1984678117676?aff=ebdssbdestsearch" },
             { date: "2026-04-24", location: "Oshawa, ON", venue: "Brew Wizards Board Game Café", time: "8:00PM", cost: "Free", ticketLink: "" },
             { date: "2026-05-04", location: "Toronto, ON", venue: "The Horseshoe Tavern", time: "8:00PM", cost: "Free", ticketLink: "" },
             { date: "2026-05-22", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$10", ticketLink: "" },
