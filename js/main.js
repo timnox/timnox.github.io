@@ -68,6 +68,12 @@ document.addEventListener('DOMContentLoaded', () => {
             container.innerHTML = '<p id="no-shows-message">No upcoming shows scheduled. Stay tuned!</p>';
             return;
         }
+        // Get today's date at midnight
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        // Filter to only include future shows
+        shows = shows.filter(show => new Date(show.date) >= today);
 
         // Sort shows by date, from soonest to latest
         shows.sort((a, b) => new Date(a.date) - new Date(b.date));

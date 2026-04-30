@@ -67,9 +67,15 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2026-04-24", location: "Oshawa, ON", venue: "Brew Wizards Board Game Café", time: "8:00PM", cost: "Free", ticketLink: "" },
+            { date: "2026-04-24", location: "Oshawa, ON", venue: "Brew Wizard's Cafe", time: "8:00PM", cost: "Free", ticketLink: "" },
             { date: "2026-05-04", location: "Toronto, ON", venue: "The Horseshoe Tavern", time: "8:00PM", cost: "Free", ticketLink: "" },
             { date: "2026-05-22", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$10", ticketLink: "" },
+            { date: "2026-06-06", location: "Elora, ON", venue: "Elora Legion Branch 229", time: "1:00PM", cost: "$20 adv, $25 door", ticketLink: "https://www.eventbrite.ca/e/punk-rock-farmers-market-elora-tickets-1987558013522" },
+            { date: "2026-06-07", location: "Toronto, ON", venue: "Do West Fest - Full of Beans", time: "2:45PM", cost: "Free", ticketLink: "" },
+            //{ date: "2026-06-27", location: "Barrie, ON", venue: "CW Coops", time: "7:30PM", cost: "Free", ticketLink: "" },
+            //{ date: "2026-07-18", location: "Toronto, ON", venue: "Hard Luck", time: "9:00PM", cost: "Free", ticketLink: "" },
+            //{ date: "2026-08-01", location: "London, ON", venue: "Probably House", time: "7:30PM", cost: "Free", ticketLink: "" },
+            //{ date: "2026-08-15", location: "Welland, ON", venue: "TBD", time: "7:30PM", cost: "Free", ticketLink: "" },
         ]
     },
 
