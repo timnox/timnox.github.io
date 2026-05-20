@@ -16,7 +16,7 @@ const config = {
     // ABOUT PAGE
     // ------------------------------------------------------------------
     about: {
-        image: "images/band-photo.png", // Path to a band photo in the 'images' folder.
+        image: "images/band-photo.jpg", // Path to a band photo in the 'images' folder.
         text: `Baby's First Pistol emerged from Toronto's underground indie/punk/alternative scene, uniting a shared passion for creating an unfiltered, explosive sonic experience. Their music, described as "Fathercore" blends relentless energy with wild live performances, delving into themes of absurdity, nihilism, and societal commentary. “Edgy...angry undertones that threaten to boil over at any minute…a twitchy, tetchy, PIL, Johnny Rotten's post-Pistols post-punk pioneers, embracing hardcore.”  - Operation X-Ray. 
 
 Baby's First Pistol is open to collaborating with a wide range of artists on their projects, including professional wrestlers and independent filmmakers. We believe in supporting creative work across different mediums and welcome inquiries from anyone interested in incorporating our music into their projects. To discuss potential collaborations, please contact us at collabs@babysfirstpistol.com - very open to discussing utilization on an attribution-basis after discussing your intended use (free music!)`},
@@ -72,7 +72,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
             { date: "2026-05-22", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$10", ticketLink: "" },
             { date: "2026-06-06", location: "Elora, ON", venue: "Elora Legion Branch 229", time: "1:00PM", cost: "$20 adv, $25 door", ticketLink: "https://www.eventbrite.ca/e/punk-rock-farmers-market-elora-tickets-1987558013522" },
             { date: "2026-06-07", location: "Toronto, ON", venue: "Do West Fest - Full of Beans", time: "2:45PM", cost: "Free", ticketLink: "" },
-            //{ date: "2026-06-27", location: "Barrie, ON", venue: "CW Coops", time: "7:30PM", cost: "Free", ticketLink: "" },
+            { date: "2026-06-27", location: "Barrie, ON", venue: "CW Coops", time: "7:00PM", cost: "$10 / PWYC", ticketLink: "" },
             //{ date: "2026-07-18", location: "Toronto, ON", venue: "Hard Luck", time: "9:00PM", cost: "Free", ticketLink: "" },
             //{ date: "2026-08-01", location: "London, ON", venue: "Probably House", time: "7:30PM", cost: "Free", ticketLink: "" },
             //{ date: "2026-08-15", location: "Welland, ON", venue: "TBD", time: "7:30PM", cost: "Free", ticketLink: "" },
