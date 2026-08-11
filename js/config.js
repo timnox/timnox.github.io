@@ -67,10 +67,9 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2026-08-01", location: "London, ON", venue: "Probably House - Ask a punk", time: "8:00PM", cost: "$10", ticketLink: "" },
-            //{ date: "2026-08-15", location: "Ingersoll, ON", venue: "Hometown Hangout 2026 - Downtown Ingersoll - Thames St S/Charles St E", time: "6:00PM", cost: "Free", ticketLink: "http://hometownhangout.ca" },
+            { date: "2026-08-15", location: "Ingersoll, ON", venue: "Hometown Hangout 2026 - Downtown Ingersoll - Thames St S/Charles St E", time: "6:00PM", cost: "Free", ticketLink: "http://hometownhangout.ca" },
             //{ date: "2026-09-18", location: "Montréal, QC", venue: "TBD", time: "8:00PM", cost: "$10", ticketLink: "" },
-            //{ date: "2026-09-20", location: "Toronto, ON", venue: "Dance Cave", time: "8:00PM", cost: "$20", ticketLink: "" },            
+            { date: "2026-09-20", location: "Toronto, ON", venue: "Dance Cave", time: "7:00PM", cost: "$20", ticketLink: "https://www.ticketweb.ca/event/rock-n-roll-triple-dip-the-dance-cave-tickets/15019673" },            
         ]
     },
 
