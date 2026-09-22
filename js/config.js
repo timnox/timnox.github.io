@@ -67,7 +67,7 @@ Baby's First Pistol is open to collaborating with a wide range of artists on the
         // The date format is "YYYY-MM-DD". Time is a simple string.
         // If a ticket link is not available, leave it as an empty string "".
         upcomingShows: [
-            { date: "2026-10-10", location: "Toronto, ON", venue: "The Flat Top", time: "Doors @ 1:00PM", cost: "$30/PWYC", ticketLink: "https://www.instagram.com/theflattop/p/DdS1QacDbpo/" },
+            { date: "2026-10-10", location: "Toronto, ON", venue: "The Flat Top - Doors ", time: "1:00PM", cost: "$30/PWYC", ticketLink: "https://www.instagram.com/theflattop/p/DdS1QacDbpo/" },
             //{ date: "2026-10-15", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$20", ticketLink: "" },
             //{ date: "2026-11-27", location: "Toronto, ON", venue: "Bovine Sex Club", time: "9:00PM", cost: "$20", ticketLink: "" },
             //{ date: "2026-11-28", location: "Toronto, ON", venue: "The Granite Brewery", time: "8:00PM", cost: "$20", ticketLink: "" },            
